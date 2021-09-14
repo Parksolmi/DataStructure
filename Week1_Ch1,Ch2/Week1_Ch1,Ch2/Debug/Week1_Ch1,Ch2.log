@@ -1,3 +1,5 @@
-﻿  Programming_project.cpp
-C:\Users\user\Desktop\2학년 2학기\자료구조\실습\Week1_Ch1,Ch2\Week1_Ch1,Ch2\Programming_project.cpp(49,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+﻿  Polynomial.cpp
+C:\Users\user\Desktop\2학년 2학기\자료구조\실습\Week1_Ch1,Ch2\Week1_Ch1,Ch2\Polynomial.h(11,8): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\user\Desktop\2학년 2학기\자료구조\실습\Week1_Ch1,Ch2\Week1_Ch1,Ch2\Polynomial.h(11,8): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+C:\Users\user\Desktop\2학년 2학기\자료구조\실습\Week1_Ch1,Ch2\Week1_Ch1,Ch2\Polynomial.cpp(4,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
   Week1_Ch1,Ch2.vcxproj -> C:\Users\user\Desktop\2학년 2학기\자료구조\실습\Week1_Ch1,Ch2\Debug\Week1_Ch1,Ch2.exe
