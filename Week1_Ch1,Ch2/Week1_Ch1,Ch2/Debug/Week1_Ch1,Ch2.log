@@ -1,5 +1,4 @@
 ﻿  Polynomial.cpp
-C:\Users\user\Desktop\2학년 2학기\자료구조\실습\Week1_Ch1,Ch2\Week1_Ch1,Ch2\Polynomial.h(11,8): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
-C:\Users\user\Desktop\2학년 2학기\자료구조\실습\Week1_Ch1,Ch2\Week1_Ch1,Ch2\Polynomial.h(11,8): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
-C:\Users\user\Desktop\2학년 2학기\자료구조\실습\Week1_Ch1,Ch2\Week1_Ch1,Ch2\Polynomial.cpp(4,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\user\Desktop\2학년 2학기\자료구조\실습\Week1_Ch1,Ch2\Week1_Ch1,Ch2\Polynomial.h(78,1): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\2학년 2학기\자료구조\실습\Week1_Ch1,Ch2\Week1_Ch1,Ch2\Polynomial.h(84,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   Week1_Ch1,Ch2.vcxproj -> C:\Users\user\Desktop\2학년 2학기\자료구조\실습\Week1_Ch1,Ch2\Debug\Week1_Ch1,Ch2.exe
