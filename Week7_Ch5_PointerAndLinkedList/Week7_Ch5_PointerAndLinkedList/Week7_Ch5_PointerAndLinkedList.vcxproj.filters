@@ -21,6 +21,9 @@
     <ClCompile Include="LinkedStack.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LinkedQueue.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Student.h">
@@ -30,6 +33,12 @@
       <Filter>소스 파일</Filter>
     </ClInclude>
     <ClInclude Include="Node.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Node2.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedQueue.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
   </ItemGroup>

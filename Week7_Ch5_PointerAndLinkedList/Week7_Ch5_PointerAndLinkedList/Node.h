@@ -2,7 +2,7 @@
 
 class Node : public Student { //Student클래스를 상속받아 사용
 	Node* link; //노드 포인터 객체로 다음 노드를 가리키는 포인터 변수이다.
-
+	
 public:
 	Node(int id = 0, char* name = (char*)"", char* dept = (char*)"") //생성자
 		: Student(id, name, dept) {
